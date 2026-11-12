@@ -1,23 +1,17 @@
-## 📝 TODO:
-- Rivedere gestione pagamenti
-- Far si che ci sia solo una carta per annuncio (sennò sballa tutto)
-- Rivedere metodi di pagamento, e magari salvare le carte di credito dell'utente
-- la funzione per aggiungere le carte
----
 # Card Collector Center - CCC
 # WebApp per la compravendita di carte collezionabili
 Benvenuti su **CardCollectorCenter - CCC**, un'applicazione web pensata per la compravendita di carte collezionabili, ispirata a piattaforme come *Card Market*.  
 Il progetto è incentrato sulla realizzazione di un'infrastruttura completa, sicura e intuitiva per venditori e collezionisti.
 
-![Homepage](https://github.com/Purp7ePi3/Database/blob/immaginireadme/Immagini/home.png?raw=true)
-![In Evidenza](https://github.com/Purp7ePi3/Database/blob/immaginireadme/Immagini/in_evidenza.png?raw=true)
+![Homepage](https://github.com/simonebrr/Database/blob/immaginireadme/Immagini/home.png?raw=true)
+![In Evidenza](https://github.com/simonebrr/Database/blob/immaginireadme/Immagini/in_evidenza.png?raw=true)
 
 ## 🎯 Obbiettivi principali
 - Consentire agli utenti di **acquistare e vendere carte** in modo semplice e sicuro.
 - Fornire una **gestione completa degli annunci**, profili, wishlist, ordini e spedizioni.
 - Offrire **strumenti avanzati per gli amministratori** per la moderazione e il controllo della piattaforma.
 
-![Le Mie Carte](https://github.com/Purp7ePi3/Database/blob/immaginireadme/Immagini/le_mie_carte.png?raw=true)
+![Le Mie Carte](https://github.com/simonebrr/Database/blob/immaginireadme/Immagini/le_mie_carte.png?raw=true)
 
 ## 🗃️ Caratteristiche principali
 - 🔍 **Motore di ricerca carte** con filtri per edizione, rarità, condizione e prezzo  
@@ -27,7 +21,7 @@ Il progetto è incentrato sulla realizzazione di un'infrastruttura completa, sic
 - 🌟 **Sistema di valutazione dei venditori**
 - 📊 **Dashboard amministrativa** per monitoraggio, gestione contenuti e reportistica
 
-  ![Ricerca Pikachu](https://github.com/Purp7ePi3/Database/blob/immaginireadme/Immagini/ricerca_pikachu.png?raw=true)
+  ![Ricerca Pikachu](https://github.com/simonebrr/Database/blob/immaginireadme/Immagini/ricerca_pikachu.png?raw=true)
 
 ## 🧱 Tecnologie utilizzate
 
@@ -43,7 +37,7 @@ Il progetto è incentrato sulla realizzazione di un'infrastruttura completa, sic
 ## 📫 Contatti
 Se avete domande o feedback non contattateci, siamo degli antipatici, soprattutto **Simone**.
 
-![Footer](https://github.com/Purp7ePi3/Database/blob/immaginireadme/Immagini/footer.png?raw=true)
+![Footer](https://github.com/simonebrr/Database/blob/immaginireadme/Immagini/footer.png?raw=true)
 ---
 # Come far andare il sito
 ## 1. Installa XAMPP
@@ -75,3 +69,9 @@ Bisogna sempre fare STOP ai processi prima di premere QUIT per chiudere, se non 
 Ho scritto questa guida per gli impediti come me.
 
 ---
+
+## 📝 TODO:
+- Rivedere gestione pagamenti
+- Far si che ci sia solo una carta per annuncio (sennò sballa tutto)
+- Rivedere metodi di pagamento, e magari salvare le carte di credito dell'utente
+- la funzione per aggiungere le carte
